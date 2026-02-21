@@ -25,8 +25,8 @@ SECRET_KEY = 'django-insecure-i_yl10md!@vqft(w##ox2ft&bp)eiqfnwnx@kw=e%d)@#qvd^3
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['tunningtracker.onrender.com', 'localhost', '127.0.0.1']
-
+# No settings.py do seu projeto
+ALLOWED_HOSTS = ['tunningtrack.onrender.com', 'tunningtracker.onrender.com', 'localhost', '127.0.0.1']
 
 # Application definition
 
